@@ -77,6 +77,16 @@ Bu kodda opsiyonel bir parametre bulunmamaktadır.
 
 4. **Analiz etmek istediğiniz URL'yi girin:**
    Program çalıştığında, analiz edilecek web sitesinin URL'sini girmeniz istenecektir.
+   
 
 ---
+
+## Video
+
+Aracın nasıl çalıştığını ve kullanım çıktısını görmek için aşağıdaki video kaydını izleyebilirsiniz:
+
+[Aracın Kullanımı - Video](https://youtu.be/S03-lz9O9c0)
+
+---
+
 
